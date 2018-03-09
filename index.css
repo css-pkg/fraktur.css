@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'Fraktur BT';
+  font-style: normal;
+  font-weight: normal;
+  src: url('./fonts/fraktur-webfont.woff2') format('woff2'),
+       url('./fonts/fraktur-webfont.woff') format('woff');
+}
