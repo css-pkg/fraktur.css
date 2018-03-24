@@ -1,0 +1,4 @@
+/* @import 'fraktur.css'; */
+@import './index.css';
+
+body { font-family: Fraktur BT, serif; }
