@@ -1,22 +1,8 @@
 {
   "name": "fraktur.css",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.css",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/bcomnes/fraktur.css.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/bcomnes/fraktur.css/issues"
-  },
-  "homepage": "https://github.com/bcomnes/fraktur.css#readme",
   "scripts": {
     "test": "npm run build",
     "build": "npm run clean && run-p build:*",
@@ -29,6 +15,17 @@
     "clean": "rimraf build && mkdirp build",
     "start": "npm run watch"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcomnes/fraktur.css.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bcomnes/fraktur.css/issues"
+  },
+  "homepage": "https://github.com/bcomnes/fraktur.css#readme",
   "devDependencies": {
     "autoprefixer": "^8.0.0",
     "budo": "^11.0.0",
