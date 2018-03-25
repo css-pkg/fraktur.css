@@ -57,7 +57,6 @@ $ postcss styles.css -o dist/bundle.css
 
 - 𝔘𝔫𝔦𝔠𝔬𝔡𝔢
 - [substack/fraktur](https://github.com/substack/fraktur)
-- Webfont found on [hassanrahim.com](http://hassanrahim.com).  🙏 Let me know if we need to add licencing info to this.
 
 ## See also
 
