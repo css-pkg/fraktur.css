@@ -1,6 +1,8 @@
 {
   "name": "fraktur.css",
+  "description": "Fraktur webfont as a node packaged module",
   "version": "1.0.2",
+  "author": "Bret Comnes",
   "bugs": {
     "url": "https://github.com/bcomnes/fraktur.css/issues"
   },
