@@ -1,7 +1,7 @@
 {
   "name": "fraktur.css",
   "description": "Fraktur webfont as a node packaged module",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": "Bret Comnes",
   "bugs": {
     "url": "https://github.com/bcomnes/fraktur.css/issues"
@@ -25,7 +25,12 @@
     "watchify": "^3.11.0"
   },
   "homepage": "https://fraktur.netlify.com",
-  "keywords": [ "css", "font", "woff", "fraktur" ],
+  "keywords": [
+    "css",
+    "font",
+    "woff",
+    "fraktur"
+  ],
   "license": "ISC",
   "main": "index.css",
   "repository": {
